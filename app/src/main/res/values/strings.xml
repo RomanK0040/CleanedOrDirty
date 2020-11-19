@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Cleaned Or Dirty</string>
+    <string name="analyse_label">Analyse result: </string>
+    <string name="analyse_prob_label">Probability of dirty:</string>
+</resources>
